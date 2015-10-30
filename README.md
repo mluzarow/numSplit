@@ -7,14 +7,14 @@ EX: numSplit.py 10
 
 Input range: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-SPLIT: [1, 3, 5, 7, 9]
+SPLIT: [1, 3, 5, 7, 9]<br>
 R: [2, 4, 6, 8, 10]
 
-SPLIT: [2, 6, 10]
+SPLIT: [2, 6, 10]<br>
 R: [4, 8]
 
-SPLIT: [4]
+SPLIT: [4]<br>
 R: [8]
 
-SPLIT: [8]
+SPLIT: [8]<br>
 R: []
